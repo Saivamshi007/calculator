@@ -1,0 +1,1 @@
+export {onbtnClick} from './calculate/calAction'

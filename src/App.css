@@ -1,0 +1,39 @@
+
+.main_container{
+  border: 2px solid chocolate;
+  margin: 0 auto;
+  width: 30pc;
+  
+
+}
+.keyBox{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+
+}
+.keyBox button{
+  border: 1px solid yellow;
+  text-align: center;
+  width: 25%;
+  line-height: 75px;
+}
+.keyBox2{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+
+.keyBox2 button{
+  border: 1px solid yellow;
+  text-align: center;
+  width: 100%;
+  line-height: 75px;
+}
+.numDisplay{
+  height: 5pc;
+  text-align: end;
+  
+
+}
